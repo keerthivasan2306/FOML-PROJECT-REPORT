@@ -1,0 +1,17 @@
+requests
+networkx
+matplotlib
+streamlit
+pandas
+scikit-learn
+networkx
+matplotlib
+requests
+networkx
+matplotlib
+streamlit
+pandas
+scikit-learn
+fastapi
+uvicorn[standard]
+pydantic

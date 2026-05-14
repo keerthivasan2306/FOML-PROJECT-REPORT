@@ -1,0 +1,12 @@
+{
+  "services": [
+    {"name": "auth", "cloud": "AWS", "region": "us-east-1", "asn": "AS16509"},
+    {"name": "payments", "cloud": "AWS", "region": "us-west-2", "asn": "AS16509"},
+    {"name": "orders", "cloud": "GCP", "region": "us-central1", "asn": "AS15169"},
+    {"name": "search", "cloud": "Azure", "region": "eastus", "asn": "AS8075"},
+    {"name": "recommendation", "cloud": "GCP", "region": "europe-west1", "asn": "AS15169"},
+    {"name": "analytics", "cloud": "Azure", "region": "westus", "asn": "AS8075"},
+    {"name": "notifications", "cloud": "AWS", "region": "ap-south-1", "asn": "AS16509"},
+    {"name": "media", "cloud": "GCP", "region": "asia-east1", "asn": "AS15169"}
+  ]
+}
